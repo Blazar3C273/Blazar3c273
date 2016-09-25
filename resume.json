@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Stepanenko Anatolii",
+    "label": "Jr. Java Developer",
+    "picture": " cv.jpg",
+    "email": "anatoliy.s.stepanenko@yandex.ru",
+    "phone": "+7 919 738 1523",
+    "summary": "Hi! My name is Stepanenko Anatolii. I’m a problem-driven, highly motivated, fast learning software developer with more, than 1 years of experience in Software Design and Development. I’m looking forward to an opportunity for working in a dynamic, challenging environment, where I can utilize my skills for developing my career and for the growth of the organization. Hands on experience Spring Frameworks (Core,JDBC, ORM, Web, CDI, AOP), Spring MVC. Hands on experience in Core Java, Java 8, JQuery, Spring Boot and ORM Hibernate. Hands on experience in TDD using JUnit, Mockito and MockMVC. Experience in working with databases such as Oracle RDBMS, CouchDB, PostgreSQL. Knowledge and understanding of OOP principles. Good Team player and also have ability to work independently. Adaptive to learn new technologies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Stavropol",
+      "countryCode": "Russia",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anatoliystepanenko",
+        "url": "https://ru.linkedin.com/in/anatoliystepanenko"
+      },
+      {
+        "network": "GitHub",
+        "username": "Blazar3C273",
+        "url": "https://github.com/Blazar3C273"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "M-Exchange AG, Munich Area, Germany",
+      "position": "Junior Java Software Developer (remote)",
+      "website": "http://www.m-exchange.de/",
+      "startDate": "2016-01-12",
+      "endDate": "2016-07-12",
+      "summary": "Это моя первая должность, напрямую связанная с Java Enterprise. Я был впечатлен размерами и сложностью системы, которую мне представилась возможность поддерживать и развивать. Приняв вызов, я с головой ушел в работу. За непродолжительный период я познакомился и работал с такими технологиями мира Java как Spring Framework и тесно связанный с ним веб-фреймворк Spring MVC. В процессе реализации новых фич системы мне пришлось столкнуться с front-end'ом системы. Он был реализован с помощью популярной библиотеки JQuery и некоторых других самописных компонентах. По архитектуре система представляла из себя классический трехтировый монолит. Так что мне конечно пришлось познакомиться и с базой данных. Проект использовал СУБД Oracle 11. Довольно часто мне приходилось писать запросы к базе даже не смотря на то, что в проекте использовалась ORM Hibernate. Еще интересно был устроен выбор data source'a, но об этом можете спросить на интервью ;-)(Note: Все вышесказанное не нарушает NDA.) Эта должность была интересна мне не только с технологиями. Рабочий процесс требовал от меня некоторые коммуникативные навыки также впервые за мою карьеру, а именно разноплановое общение (письменная коммуникация, например в Jira, вербальная при еженедельных Skype митингах) на не родном для меня английском языке.",
+      "highlights": [
+        "Spring Framework & Spring MVC",
+        "Hibernate & HQL",
+        "JQuery",
+        "Oracle RDBMS",
+        "//what's more ?"
+      ]
+    },
+    {
+      "company": "Self employed. Direct contract with customer// does it right naming?",
+      "position": "Project Manager, Developer",
+      "website": "http://tgliamz.ru/",
+      "startDate": "2014-11-01",
+      "endDate": "2015-03-01",
+      "summary": "The project aims to develop a system which provide to customer's visitors additional contextual information about exhibit such as additional text, archive images, photos and other multimedia materials through branded Android mobile app. Результатом проекта явилось успешное внедрение, довольный заказчик и тысячи удовлетворенных пользователей клиента.",
+      "highlights": [
+        " As project manager: Business meeting with the customer at all project stages, project planning, task management and time for their completion, project reporting to the customer, writing technical documentation and instructions. ",
+        "As developer: Design of the system architecture, the choice of database (selected db is CouchDB - a document-oriented noSQL), the design of the document’s structure, writing a tests (JUnit), design and implementation of mobile (Android) application, design and implementation of content management desktop- application (Java, Swing) and writing installation scripts."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Enactus ETA SFU",
+      "position": "3D printing Engineer in \"Touch museum\" project.",
+      "website": "http://boomstarter.ru/projects/87657/trogatelnyy_muzey",
+      "startDate": "2015-06-01",
+      "summary": "The project is aimed at creating in special libraries for the blind people tactile aids, printed on a 3D-printers. My role was in making exhibits and maintaining and repairing 3D printers in libraries, teaching the staff of library how to make exhibits on they own printers.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Engineering and Technology Academy of Southern Federal University",
+      "area": "CAD of electronics, PCB and IC",
+      "studyType": "Engineer",
+      "startDate": "2010-09-01",
+      "endDate": "2015-09-01",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Java ",
+      "level": "",
+      "keywords": [
+        "Java Core",
+        "Spring framework",
+        "Spring MVC",
+        "Hibernate",
+        "Maven",
+        "Tomcat",
+        "Swing"
+      ]
+    },
+    {
+      "name": "SQL/noSQL",
+      "level": "",
+      "keywords": [
+        "Oracle 11g",
+        "PostgreSQL",
+        "CouchDB"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Intellij idea",
+        "Git",
+        "Docker",
+        "todo add more"
+      ]
+    },
+    {
+      "name": "Spring",
+      "level": "",
+      "keywords": [
+        "AOP",
+        "ORM Hibernate",
+        "Spring MVC",
+        "Spring Boot",
+        "JDBC Template",
+        "Spring Core",
+        "JPA",
+        "Validation",
+        ""
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "",
+      "keywords": [
+        "Work in team",
+        "TODO"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "intermediate"
+    },
+    {
+      "language": "Russian",
+      "fluency": "native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": " Senior Systems Analyst at Porto Seguro(via Linked In)",
+      "reference": "Anatolii is a good professional. He seems to be always avaiable to help whatever is the subject.  He knows how to work and collaborate with the team.  He is also up to date with the new technologies.  One time I was developing a report solution and Anatolii helped me presenting some important suggestions regarding data security. "
+    }
+  ]
+}
