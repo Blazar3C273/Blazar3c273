@@ -5,7 +5,17 @@
     "picture": "cv.jpg",
     "email": "anatoliy.s.stepanenko@yandex.ru",
     "phone": "+7 919 738 1523",
-    "summary": "Hi! My name is Stepanenko Anatolii. I’m a problem-driven, highly motivated, fast learning software developer with more, than 1 years of experience in Software Design and Development. I’m looking forward to an opportunity for working in a dynamic, challenging environment, where I can utilize my skills for developing my career and for the growth of the organization. Hands on experience Spring Frameworks (Core,JDBC, ORM, Web, CDI, AOP), Spring MVC. Hands on experience in Core Java, Java 8, JQuery, Spring Boot and ORM Hibernate. Hands on experience in TDD using JUnit, Mockito and MockMVC. Experience in working with databases such as Oracle RDBMS, CouchDB, PostgreSQL. Knowledge and understanding of OOP principles. Good Team player and also have ability to work independently. Adaptive to learn new technologies.",
+    "summary": "Hi! My name is Stepanenko Anatolii. I’m a problem-driven, highly motivated, fast learning software developer with more, than 1 years of experience in Software Design and Development. I’m looking forward to an opportunity for working in a dynamic, challenging environment, where I can utilize my skills for developing my career and for the growth of the organization.",
+    "highlights": [
+      "Hands on experience Spring Frameworks (Core,JDBC, ORM, Web, CDI, AOP), Spring MVC.",
+      "Hands on experience in Core Java, Java 8, JQuery, Spring Boot and ORM Hibernate.",
+      "Hands on experience in TDD using JUnit, Mockito and MockMVC.",
+      "Experience in working with databases such as Oracle RDBMS, CouchDB, PostgreSQL.",
+      "Knowledge and understanding of OOP principles.",
+      "Good Team player and also have ability to work independently.",
+      "Adaptive to learn new technologies."
+
+    ],
     "location": {
       "address": "",
       "postalCode": "",
