@@ -1,10 +1,10 @@
 {
   "basics": {
+    "picture": "cv.jpg",
     "name": "Stepanenko Anatolii",
     "label": "Jr. Java Developer",
-    "picture": "cv.jpg",
     "email": "anatoliy.s.stepanenko@yandex.ru",
-    "phone": "+7 919 738 1523",
+    "phones": ["+7 919 738 15 23","+7 988 254 25 95"],
     "summary": "Hi! My name is Stepanenko Anatolii. I’m a problem-driven, highly motivated, fast learning software developer with more, than 1 years of experience in Software Design and Development. I’m looking forward to an opportunity for working in a dynamic, challenging environment, where I can utilize my skills for developing my career and for the growth of the organization.",
     "highlights": [
       "Hands on experience Spring Frameworks (Core,JDBC, ORM, Web, CDI, AOP), Spring MVC.",
@@ -14,14 +14,9 @@
       "Knowledge and understanding of OOP principles.",
       "Good Team player and also have ability to work independently.",
       "Adaptive to learn new technologies."
-
     ],
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Stavropol",
-      "countryCode": "Russia",
-      "region": ""
+      "countryCode": "Russia"
     },
     "profiles": [
       {
@@ -39,7 +34,7 @@
   "work": [
     {
       "company": "M-Exchange AG, Munich Area, Germany",
-      "position": "Junior Java Software Developer (remote)",
+      "position": "Jr. Java Developer (remote)",
       "website": "http://www.m-exchange.de/",
       "startDate": "2016-01-12",
       "endDate": "2016-07-12",
@@ -52,60 +47,60 @@
       ]
     },
     {
-      "company": "Self employed. Direct contract with customer// does it right naming?",
+      "company": "Self employed. Direct contract with customer.",
       "position": "Project Manager, Developer",
       "website": "http://tgliamz.ru/",
       "startDate": "2014-11-01",
       "endDate": "2015-03-01",
-      "summary": "The project aims to develop a system which provide to customer's visitors additional contextual information about exhibit such as additional text, archive images, photos and other multimedia materials through branded Android mobile app. Project results - successful implementation, a satisfied customer and thousands of satisfied users.",
+      "summary": "The project was aimed to develop a system which provide to customer's visitors additional contextual information about exhibit such as additional text, archive images, photos and other multimedia materials through branded Android mobile app. Project results: successful implementation, a satisfied customer and thousands of satisfied users. There is a letter of recommendation. My responsibilities:",
       "highlights": [
-        " As project manager: Business meeting with the customer at all project stages, project planning, task management and time for their completion, project reporting to the customer, writing technical documentation and instructions. ",
-        "As developer: Design of the system architecture, the choice of database (selected db is CouchDB - a document-oriented noSQL), the design of the document’s structure, writing a tests (JUnit), design and implementation of mobile (Android) application, design and implementation of content management desktop- application (Java, Swing) and writing installation scripts."
+        "as a project manager: Business meeting with the customer at all project stages, project planning, task management, project reporting to the customer, writing technical documentation and instructions.",
+        "as a developer: Design of the system architecture, the choice of database (selected db is CouchDB - a document-oriented noSQL), design of the document’s structure, writing a tests (JUnit), design and implementation of mobile (Android) application, of content management desktop application (Java, Swing) and writing installation scripts."
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Enactus ETA SFU",
-      "position": "3D printing Engineer in \"Touch museum\" project.",
-      "website": "http://boomstarter.ru/projects/87657/trogatelnyy_muzey",
-      "startDate": "2015-06-01",
-      "endDate":"2015-10-01",
-      "summary": "The project is aimed at creating in special libraries for the blind people tactile aids, printed on a 3D-printers. My role was in making exhibits, maintaining 3D printers in libraries, teaching the staff of library how to make exhibits on they own printers.",
-      "highlights": []
     }
   ],
   "education": [
     {
       "institution": "Engineering and Technology Academy of Southern Federal University",
-      "area": "CAD of electronics, PCB and IC",
-      "studyType": "Engineer",
+      "area": "Computer-aided design (CAD)",
+      "studyType": "Engineer at specialty (between BSc and MS. German 'Diplom' degree)",
       "startDate": "2010-09-01",
-      "endDate": "2015-09-01",
-      "courses": [
-        ""
-      ]
+      "endDate": "2015-09-01"
     }
   ],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
       "name": "Java ",
-      "level": "",
       "keywords": [
         "Java Core",
-        "Spring framework",
-        "Spring MVC",
-        "Hibernate",
+        "Java 8",
         "Maven",
         "Tomcat",
-        "Swing"
+        "Swing",
+        "JUnit",
+        "Mockito",
+        "MockMVC",
+        "Slf4J",
+     	"LogBack",
+     	"Lombock"
+
+          ]
+        },
+    {
+      "name": "Spring",
+      "keywords": [
+        "AOP",
+        "ORM Hibernate",
+        "Spring MVC",
+        "Spring Boot",
+        "JDBC Template",
+        "Spring Core",
+        "JTA",
+        "Validation"
       ]
     },
     {
       "name": "SQL/noSQL",
-      "level": "",
       "keywords": [
         "Oracle 11g",
         "PostgreSQL",
@@ -114,33 +109,21 @@
     },
     {
       "name": "Tools",
-      "level": "",
       "keywords": [
-        "Intellij idea",
+        "IntelliJ IDEA",
         "Git",
         "Docker"
+        ,"Jira"
       ]
     },
+
     {
-      "name": "Spring",
-      "level": "",
+      "name":"Web",
       "keywords": [
-        "AOP",
-        "ORM Hibernate",
-        "Spring MVC",
-        "Spring Boot",
-        "JDBC Template",
-        "Spring Core",
-        "JPA",
-        "Validation"
-      ]
-    },
-    {
-      "name": "Soft Skills",
-      "level": "",
-      "keywords": [
-        "Work in team",
-        "TODO"
+        "HTML"
+        ,"CSS"
+        ,"JQuery"
+        ,"Vaadin"
       ]
     }
   ],
@@ -154,11 +137,10 @@
       "fluency": "native speaker"
     }
   ],
-  "interests": [],
   "references": [
     {
       "name": " Senior Systems Analyst at Porto Seguro(via LinkedIn)",
-      "reference": "Anatolii is a good professional. He seems to be always avaiable to help whatever is the subject.  He knows how to work and collaborate with the team.  He is also up to date with the new technologies.  One time I was developing a report solution and Anatolii helped me presenting some important suggestions regarding data security. "
+      "reference": "Anatolii is a good professional. He seems to be always available to help whatever is the subject.  He knows how to work and collaborate with the team.  He is also up to date with the new technologies.  One time I was developing a report solution and Anatolii helped me presenting some important suggestions regarding data security."
     }
   ]
 }
