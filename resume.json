@@ -4,7 +4,7 @@
     "name": "Stepanenko Anatolii",
     "label": "Jr. Java Developer",
     "email": "anatoliy.s.stepanenko@yandex.ru",
-    "summary": "Hi! My name is Stepanenko Anatolii. I’m a problem-driven, highly motivated, fast learning software developer with more, than 1 year of experience in Software Design and Development. I’m looking for an opportunity for working in a dynamic, challenging environment, where I can utilize my skills for development of career and for the growth of the organization.",
+    "summary": "Hi! My name is Stepanenko Anatolii. I’m a problem-driven, highly motivated, fast learning software developer with more, than 1 year of experience in Software Design and Development. I’m looking for an opportunity of working in a dynamic, challenging environment, where I can utilize my skills for development of career and for the growth of the organization.",
     "highlights": [
       "Hands on experience Spring Frameworks (Core, JDBC, ORM, Web, CDI, AOP), Spring MVC.",
       "Hands on experience in Core Java, Java 8, JQuery, Spring Boot and ORM Hibernate.",
@@ -12,7 +12,7 @@
       "Experience in working with databases such as Oracle RDBMS, CouchDB, PostgreSQL.",
       "Knowledge and understanding of OOP principles.",
       "Good Team player.",
-      "Adaptive to learn new technologies."
+      "Adaptive for learning of new technologies."
     ],
     "location": {
       "countryCode": "Russia"
@@ -37,7 +37,7 @@
       "website": "http://www.m-exchange.de/",
       "startDate": "2016-01-12",
       "endDate": "2016-07-12",
-      "summary": "This is my first position, related with Java Enterprise. I was impressed by the size and complexity of the system, which I had the opportunity to maintain and develop. Accepting the challenge, I plunged into work. For a short period I learned and then worked with the Java world technologies such as Spring Framework and is closely associated with it Spring MVC web framework. In the process of implementation of the new features, I had to face with the system's front-end. It was implemented using JQuery library and some other written before me, components. Architectural system was a classic three-galleries monolith. So of course I had to study the database. The project used the Oracle 11 DBMS. Quite often, I had to write queries to the database even though the fact, that the project was used Hibernate JPA provider. Also, data source selection has been designed quite unusual, but about it - on an interview ;-) (Note: All the above does not violate the NDA.) This post was interesting to me, not only from a technological point of view. Workflow required from me some communication skills, also the first time in my career, such as a multi-pronged communication (written communication, for example, in Jira, verbal at the weekly Skype meetings) on non-native English language for me.",
+      "summary": "This is my first position, related to Java Enterprise. I was impressed by the size and complexity of the system, which I had the opportunity to maintain and develop. Accepting the challenge, I plunged into work. For a short period I have learnt and then worked with the Java world technologies such as Spring Framework and Spring MVC web framework. In the process of implementation of the new features, I had to face with the system's front-end. It was implemented using JQuery library and some other components, which had been written before me. Architectural system was a classic three-galleries monolith. So of course I had to study the database. The project used the Oracle 11 DBMS. Quite often, I had to write queries to the database even though the fact, that the project was used Hibernate JPA provider. Also, data source selection has been designed quite unusual, but about it - on an interview ;-) (Note: All the above does not violate the NDA.) I was interested in this position, not only from a technological point of view. Workflow required from me some communication skills, also the first time in my career, such as a multi-pronged communication (written communication, for example, in Jira, verbal at the weekly Skype meetings) in non-native English language for me.",
       "highlights": [
         "Spring Framework & Spring MVC",
         "Hibernate & HQL",
@@ -51,7 +51,7 @@
       "website": "http://tgliamz.ru/",
       "startDate": "2014-11-01",
       "endDate": "2015-03-01",
-      "summary": "The project was aimed to develop a system which provide to customer's visitors additional contextual information about exhibit such as additional text, archive images, photos and other multimedia materials through branded Android mobile app. Project results: successful implementation, a satisfied customer and thousands of satisfied users. There is a letter of recommendation. My responsibilities:",
+      "summary": "Main function of this system is to provide to customer’s visitors additional contextual information about exhibit such as additional text, archive images, photos and other multimedia materials through branded Android mobile app. Project results: successful implementation, a satisfied customer and thousands of satisfied users. There is a letter of recommendation. My responsibilities:",
       "highlights": [
         "as a project manager: Business meeting with the customer at all project stages, project planning, task management, project reporting to the customer, writing technical documentation and instructions.",
         "as a developer: Design of the system architecture, the choice of database (selected db is CouchDB - a document-oriented noSQL), design of the document’s structure, writing a tests (JUnit), design and implementation of mobile (Android) application, of content management desktop application (Java, Swing) and writing installation scripts."
