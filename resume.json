@@ -1,6 +1,6 @@
 {
   "basics": {
-    "link":[{"href":"/rus","label":"RU"}],
+    "link":[{"href":"resume/rus","label":"RU"}],
     "picture": "cv.jpg",
     "name": "Stepanenko Anatolii",
     "label": "Jr. Java Developer",
