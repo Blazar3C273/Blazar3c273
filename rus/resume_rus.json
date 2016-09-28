@@ -1,6 +1,6 @@
 {
   "basics": {
-    "link":[{"href":"https://blazar3c273.github.io/resume/rus","label":"RU"}],
+    "link":[{"href":"/resume/","label":"EN"}],
     "picture": "cv.jpg",
     "name": "Stepanenko Anatolii",
     "label": "Jr. Java Developer",
@@ -14,7 +14,7 @@
       "Experience in working with databases such as Oracle RDBMS, CouchDB, PostgreSQL.",
       "Knowledge and understanding of OOP principles.",
       "Good Team player.",
-      "Adaptive for learning of new technologies."
+      "Adaptive for learning of new tech nologies."
     ],
     "location": {
       "countryCode": "Russia"
@@ -31,7 +31,7 @@
         "url": "https://github.com/Blazar3C273"
       }
     ],
-    "pdf":{"href":"Stepanenko_A_EN_CV.pdf","label":"Download pdf"}
+    "pdf":{"href":"Stepanenko_A_RU_CV.pdf","label":"Скачать в pdf"}
   },
   "work": [
     {
