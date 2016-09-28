@@ -1,6 +1,6 @@
 {
   "basics": {
-    "link":[{"href":"https://blazar3c273.github.io/resume/rus","label":"RU"}],
+    "link":[{"href":"resume/rus","label":"RU"}],
     "picture": "cv.jpg",
     "name": "Stepanenko Anatolii",
     "label": "Jr. Java Developer",
